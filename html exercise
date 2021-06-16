@@ -1,0 +1,204 @@
+  &lt;即<
+单选题
+1．下面标记中，用来显示段落的标记是（  D  ）。
+A、&lt;h1>
+B、&lt;br />
+C、&lt;img />
+D、&lt;p>
+2．下列标记中，用来设置文本为粗体的是（ C  ）。
+A、&lt;u>&lt;/u>
+B、&lt;del>&lt;/del>
+C、&lt;strong>&lt;/strong>
+D、&lt;em>&lt;/em>
+3．若要在网页中插入样式表main.css，以下用法中正确的是（D    ）。
+A、&lt;link src="main.css" type="text/css" rel="stylesheet">
+B、&lt;include href="main.css" type="text/css" rel="stylesheet">
+C、&lt;link href="main.css" type="text/css" >
+D、&lt;link href="main.css" type="text/css" rel="stylesheet">
+4．网页中的图像文件位于html文件的下一级文件夹img下，则以下CSS书写正确的是（ C）。
+A、&lt;img src="logo.gif" />
+B、&lt;img src="img\logo.gif" />
+C、&lt;img src="img/logo.gif" />
+D、&lt;img src="img/logo" />
+5．在HTML中，用于设置页面元信息的标示符是（  D  ）。
+A、&lt;title>
+B、&lt;base>
+C、&lt;head>
+D、&lt;meta>
+6．下列选项中，不属于文本标记属性的是（  A  ）。
+A、nbsp;
+B、align
+C、color
+D、face
+7．在网页中插入图像，若图像文件位于html文件的上两级文件夹，则在文件名之前加入（  D ）。
+A、../
+B、/
+C、./
+D、../../
+8．在HTML文档头部标记中，使用&lt;meta>标记的name和content属性可以为搜索引擎提供信息。设置网页关键字的name属性值应该为（   A）。
+A、keywords
+B、description
+C、charset
+D、expires
+9．下列关于特殊字符的说法不正确的是（  C ）。
+A、特殊字符的代码通常由前缀"&"、字符名称和后缀为英文状态下的";"组成
+B、可以通过菜单栏直接插入相应特殊字符的代码
+C、转义序列各字符间可以有空格
+D、转义序列必须以分号结束
+10．下列标记中用于定义HTML文档所要显示内容的是（ B  ）。
+A、&lt;head>&lt;/head>
+B、&lt;body>&lt;/body>
+C、&lt;html>&lt;/html>
+D、&lt;title>&lt;/title>
+11．下列选项中，没有对应的结束标记的是（   D ） 。
+A、&lt;title>
+B、&lt;body>
+C、&lt;html>
+D、&lt;br />
+12．下列不是HTML中特殊字符的字符转义序列是（  D ）。
+A、  
+B、&lt;
+C、>
+D、⊤
+13．&lt;img />标记链接图片的属性是（A    ）。
+A、src
+B、alt
+C、width
+D、height
+14．在HTML文档头部标记中，使用&lt;meta>标记的name和content属性可以为搜索引擎提供信息。设置网页描述的name属性值应该为（    B）。
+A、keywords
+B、description
+C、charset
+D、expires
+15．下列标记中，用于定义HTML文档所要显示内容的是（B   ）。
+A、&lt;head>&lt;/head>
+B、&lt;body>&lt;/body>
+C、&lt;html>&lt;/html>
+D、&lt;title>&lt;/title>
+16．在HTML中，常用的字符集编码方式有UTF-8和gb2312两种。下列关于字符集的描述正确的是（   D ）。
+A、UTF-8字符集中，只有中文，没有日语、阿拉伯语等其他语言
+B、同样的文本，使用UTF-8格式要比gb2312格式文件体积小
+C、UTF-8字符集由中国制定标准
+D、制作有韩语字符的网页，不能使用gb2312字符集
+17．下面标记中，表示换行的标记是（    C）。
+A、&lt;h1>
+B、&lt;enter>
+C、&lt;br />
+D、&lt;hr />
+18．下列属性中，用于设置鼠标悬停时图像的提示文字的是（  A  ）。
+A、title
+B、alt
+C、width
+D、height
+19．下列选项中，不是&lt;img />标记属性的是（  D  ）。
+A、src
+B、alt
+C、width
+D、href
+20．位于HTML文档的最前面，用于向浏览器说明当前文档使用哪种 HTML 或 XHTML 标准规范的标记是（   A? ）。
+A、&lt;!DOCTYPE>
+B、&lt;head>&lt;/head>
+C、&lt;title>&lt;/title>
+D、&lt;html>&lt;/html>
+21．下面选项中，可以将HTML页面的标题设置为“传智播客”的是（  B）。
+A、&lt;head>传智播客&lt;/head>
+B、&lt;title>传智播客&lt;/title>
+C、&lt;h>传智播客&lt;/h>
+D、&lt;t>传智播客&lt;/t>
+22．在下列属性中，用来定义文本字体大小的是（  C  ）。
+A、color
+B、face
+C、size
+D、align
+23．网页中的图像文件位于html文件的下一级文件夹img下，则以下CSS书写正确的是（ C）。
+A、&lt;img src="logo.gif" />
+B、&lt;img src="img\logo.gif" />
+C、&lt;img src="img/logo.gif" />
+D、&lt;img src="img/logo" />
+24．下面的选项中，属于常用的图片格式并且能够做动画的是（B    ）。
+A、jpg格式
+B、gif格式
+C、psd格式
+D、png格式
+25．以下标示符中，用于设置页面标题的是（  A  ）。
+A、&lt;title>
+B、&lt;caption>
+C、&lt;head>
+D、&lt;html>
+26．在下列属性中，用来定义文本字体的是（B    ）。
+A、color
+B、face
+C、size
+D、align
+27．下列选项中，字号最大的是( A )。
+A、&lt;h1>
+B、&lt;h2>
+C、&lt;h3>
+D、&lt;h4>
+28．在下列属性中，用来定义文本字体颜色的是（ A   ）。
+A、color
+B、face
+C、size
+D、align
+29．在HTML中，表示内嵌CSS样式的标记是（   B ）。
+A、&lt;title>
+B、&lt;style>
+C、&lt;head>
+D、&lt;meta>
+
+判断题
+1．&lt;!DOCTYPE>标记和浏览器的兼容性无关，为了代码简洁，可以删掉。(X )
+2．在网页中需要插入图片的相对路径中，“../”用于指定上一级文件夹。( V)
+3．一个HTML文档只能含有一对&lt;body>标记，且&lt;body>标记必须在&lt;html>标记内。(V )
+4．&lt;title>标记用于定义HTML文档的头部信息，也称为头部标记。(X )
+5．在文本格式化标记中，&lt;s>&lt;/s>和&lt;del>&lt;/del>都用来给文本添加下划线。(X )
+6．&lt;font>标记可以用来控制网页中文本的字体、字号、对齐方式和颜色。(X )
+7．在网页中需要插入图片的相对路径中，“../”用于指定上一级文件夹。(  V  )
+8．在&lt;font>标记中，size可以取到的值为1~8。( X)
+9．&lt;s>和&lt;del>都可以使文字以加删除线的方式显示（XHTML推荐使用&lt;s>）。（ X ）
+10．通过vspace和hspace属性可以分别调整图像的垂直边距和水平边距。( V)
+11．&lt;!DOCTYPE> 标记位于文档的最前面，用于向浏览器说明当前文档使用哪种 HTML 或 XHTML 标准规范。( V)
+12．&lt;i>&lt;/i>和&lt;em>&lt;/em>都用来表示文字以斜体方式显示，但是一般推荐使用&lt; i >。(X )
+13．开头处可以不使用&lt;!DOCTYPE>标记为所有的XHTML文档指定XHTML版本和类型。(X )
+14．在HTML中，标记可以拥有多个属性。(V )
+15．注释标记的基本语法是&lt;!-- 注释语句 -->。(V )
+16．如果不给&lt;img />标记设置宽和高，图片就会按照他的原始尺寸显示。( )V
+17．&lt;hr />为单标记，用于定义一条水平线。(V? )
+18．在图像常用格式中，GIF只能处理256种颜色。( V)
+19．特殊字符的代码通常由前缀“&amp;”、字符名称和后缀为英文状态下的“;”组成。（ V ）
+20．在特殊字符中，“&amp;lt;”用来表示小于号，“&amp;gt;”用来表示大于号。( V)
+21．网页当中的常用图片格式是jpg，png和tif格式。( X)
+22．使用回车键换行的段落可以实现强制换行的效果。(X )
+23．在标记的嵌套过程中，必须先结束最靠近内容的标记，再按照由外及内的顺序依次关闭标记。( X)
+24．&lt;html>标记标志着HTML文档的开始，&lt;/html>标记标志着HTML文档的结束。( X)
+25．在特殊字符中，使用“&amp;nbsp;”空格符可以实现想要的空白字符效果。( V)
+26．在HTML标记中，属性之间不分先后顺序，标记名与属性、属性与属性之间均以逗号分开。( X)
+27．PNG图像格式是一种支持透明的图像格式。（ V ）
+28．在图像常用格式中，JPG是一种有损压缩的图像格式。(V )
+29．一个HTML文档中，可以有多个&lt;h1>标记。( X )
+30．在图像常用格式中，PNG不但支持动画，还支持透明。( X)
+31．&lt;p>是HTML文档中最常见的标记，文本在一个段落中会根据浏览器窗口的大小自动换行。(V )
+32．一个HTML文档可以含有多对&lt;head>标记。( X)
+33．浏览器中显示的所有文本、图像、音频和视频等信息都必须位于&lt;body>标记内。(V )
+34．在&lt;meta>标记中使用name属性提供搜索内容名称。设置网页关键字时，name的值为keywords。(V )
+35．在HTML中，&lt;p>标记中可以嵌套&lt;p>标记。(X)
+36．在CSS中，书写图片路径的时候，尽量使用绝对路径，因为可以更稳定简洁。（ X  ）
+37．在HTML中使用注释标记时，注释内容不会显示在浏览器窗口中。(V )
+38．在HTML页面中，带有“&lt; >”符号的元素被称为HTML标记。(V )
+39．一个HTML文档只能含有一对&lt;body>标记，且&lt;body>标记必须在&lt;html>标记内。(V )
+40．在HTML标记中，&lt;h1>标记属于双标记。(V )
+41．书写图片路径的时候，尽量使用绝对路径，因为可以更稳定简洁。(X )
+42．页面中的信息，必须放在相应的HTML标记中，才能被浏览器正确解析。(V )
+43．在HTML页面中，&lt;hr>为双标记，用于定义一条水平线。(X )
+44．相对路径不带有盘符，通过层级关系描述目标图像的位置。(X )
+45．图像文件和html文件位于同一文件夹，相对地址为&lt;img src="logo.gif" />。( V)
+46．在特殊字符中，&lt;sub>用来表示上标。(X )
+47．在HTML中，&lt;!DOCTYPE >文档类型声明可以省略不写。(X )
+48．&lt;b>标记和&lt;strong>标记都可以使文字以粗体方式显示。（V ）
+49．&lt;p>标记中，可以插入&lt;h1>~&lt;h6>系列标记。( X )
+50．在Dreamweaver中，可以通过菜单栏中的【插入】→【HTML】→【特殊字符】选项直接插入相应特殊字符的代码。( V )( )
+51．在&lt;head>中使用&lt;link>标记可引用外部文件，一个页面只允许使用一个&lt;link>标记引用外部文件。(X )
+52．GIF是一种无损的图像格式，并且支持透明。(V )
+53．特殊字符的代码由前缀“&amp;”、字符名称和后缀为英文状态下的“;”组成。(V )
+
+
