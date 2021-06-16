@@ -1,0 +1,222 @@
+  &lt;即<
+
+单选题
+1．关于使用list-style复合属性综合设置列表样式的语法格式，下列书写正确的是（ A  ）。
+A、list-style:列表项目符号 列表项目符号的位置 列表项目图像;。
+B、list-style:列表项目符号、列表项目符号的位置、列表项目图像;。
+C、list-style:列表项目符号，列表项目符号的位置，列表项目图像;。
+D、list-style:列表项目符号/列表项目符号的位置/列表项目图像;。
+2．关于有序列表的描述，下列说法正确的是（ B  ）。
+A、有序列表没有排列顺序。
+B、有序列表按顺序排列，并不带有序号。
+C、有序列表按顺序排列并通过type属性定义序号样式。
+D、有序列表不可以和无序列表嵌套使用。
+3．下列代码中，能够设置列表项目符号为阿拉伯数字的是（   B）。
+A、ol{ list-style-type: 1;}
+B、ol{ list-style-type: decimal ;}
+C、ul{ list-style-type: 1;}
+D、ol{ list-style-type: none;}
+4．下列选项中，属于定义列表的基本语法格式的是（   C ）。
+A、&lt;ol> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> ...... &lt;/ol>
+B、&lt;ul> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> ...... &lt;/ul>
+C、&lt;dl> &lt;dt>名词1&lt;/dt> &lt;dd>名词1解释1&lt;/dd> &lt;dd>名词1解释2&lt;/dd> ... &lt;/dl>
+D、&lt;dl> &lt;dt>名词1&lt;/dt> &lt;dt>名词2&lt;/dt> ... &lt;/dl>
+5．关于定义列表的使用，下列说法正确的是(  C )。
+A、&lt;dd>&lt;/dd>中不能嵌套其他的标记，只能嵌套p标记。
+B、&lt;dd>&lt;/dd>中不能嵌套其他的标记，只能嵌套div标记。
+C、&lt;dd>&lt;/dd>中可以根据语义嵌套其他的标记，例如p标记，ul标记等。
+D、&lt;dd>&lt;/dd>中不能嵌套任何标记。
+6．在定义列表中，用于对名词进行解释和描述的标记是（ C  ）。
+A、&lt;dl>&lt;/dl>
+B、&lt;li>&lt;/li>
+C、&lt;dt>&lt;/dt>
+D、&lt;dd>&lt;/dd>
+7．下列代码中，能够将列表项目符号设置为大写英文字母的是（  D ）。
+A、ul{ list-style-type: lower-alpha;}
+B、ol{ list-style-type: lower-alpha;}
+C、ul{ list-style-type: upper-alpha;}
+D、ol{ list-style-type: upper-alpha;}
+8．关于定义列表实现图文混排，下列说法正确的是(B   )。
+A、&lt;dt>&lt;/dt>标记中插入图片，&lt;dd>&lt;/dd>标记中放入对图片解释说明的文字。
+B、&lt;dd>&lt;/dd>标记中插入图片，&lt;dt>&lt;/dt>标记中放入对图片解释说明的文字。
+C、&lt;dt>&lt;/dt>标记中不能放入图片，所有内容都要放入&lt;dd>&lt;/dd>标记中。
+D、&lt;dd>&lt;/dd>标记中不能放入图片，所有内容都要放入&lt;dt>&lt;/dt>标记中。
+9．CSS中，通过链接伪类可以实现不同的链接状态。下列用来定义未访问时超链接状态的是（ A      ）。
+A、a:link
+B、a:visited
+C、a:hover
+D、a:active
+10．在HTML中，常用于定义图文混排的列表是（A   ）。
+A、定义列表
+B、菜单列表
+C、有序列表
+D、无序列表
+11．若超链接的href属性，需要链接到list页面中的one锚点，以下书写正确的是（ D   ）。
+A、list.html
+B、#one.list
+C、list#one
+D、list.html#one
+12．定义有序列表&lt;ol>的（   B）属性，可以决定有序列表项目符号的类型。
+A、value
+B、type
+C、rel
+D、href
+13．设置超链接&lt;a>标记中&lt;img>的border样式为none，下列代码书写正确的是（    ）。
+A、a .img{ border:none; }
+B、a#img{ border:none;}
+C、a img{border:none; }
+D、a.img{border:none;}
+14．关于list-style-image属性的基本格式，下列书写正确的是（ A  ）。
+A、list-style-image:url(图片位置);
+B、list-style-image: (图片位置);
+C、list-style-image:&lt;img src="图片位置">;
+D、list-style-image: src(图片位置);
+15．下列选项中，可以设置列表项目符号位于列表文本以内的是（   A  ）。
+A、list-style-position:inside;
+B、list-style-position:outside;
+C、list-style-position:none;
+D、list-style-position:0;
+16．下列选项中，用于清除超链接默认的下划线的是（ A  ）。
+A、text-decoration:none;
+B、text-decoration:underline;
+C、text-decoration:overline;
+D、text-decoration:line-through;
+17．下列代码中，用于清除列表默认样式的是（  A  ）。
+A、list-style:none;
+B、list-style:0;
+C、list-style:zero;
+D、list-style:delete;
+18．在列表属性中，代码“list-style-position:inside;”的含义是将列表项目符号位于列表的哪个地方（  D  ）。
+A、内部
+B、外部
+C、随机
+D、不插入
+19．下列代码中，可以用于清除链接图像边框的是（ A  ）。
+A、border:0;
+B、margin:0;
+C、padding:0;
+D、list-style:none;
+20．下列选项中，属于定义有序列表的基本语法格式的是（  A ）
+A、&lt;ol> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> ...... &lt;/ol>
+B、&lt;ul> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> ...... &lt;/ul>
+C、&lt;ul> ...... &lt;/ul>
+D、&lt;ol>……&lt;/ol> &lt;ol>……&lt;/ol> &lt;ol>……&lt;/ol>
+21．CSS中，通过链接伪类可以实现不同的链接状态，下列说法错误的是（   A ）。
+A、a:link{ CSS样式规则; } 超链访问时的状态。
+B、a:visited{ CSS样式规则; } 访问后超链接的状态。
+C、a:hover{ CSS样式规则; } 鼠标经过、悬停时超链接的状态。
+D、a: active{ CSS样式规则; } 鼠标点击不动时超链接的状态。
+22．使用list-style复合属性定义列表项目符号为“■”且位于列表文本以内的列表，下列代码书写正确的是（  B ）。
+A、list-style:circle inside;
+B、list-style:square inside;
+C、list-style:circle outside;
+D、list-style:square outside;
+23．关于有序列表和无序列表的嵌套，下列代码书写正确的是（   C）。
+A、&lt;ol> &lt;ul> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> &lt;/ul> &lt;/ol>
+B、&lt;ol> &lt;ul> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> &lt;/ol> &lt;/ul>
+C、&lt;ol> &lt;li>列表项1 &lt;ul> &lt;li>列表项1&lt;/li> &lt;li>列表项1&lt;/li> &lt;/ul> &lt;/li> &lt;li>列表项2&lt;/li> &lt;/ol>
+D、&lt;ol> &lt;ul> &lt;ol>&lt;/ol> &lt;/ul> &lt;/ol>
+24．下列选项中，定义无序列表的基本语法格式正确的是（  A ）
+A、&lt;ul> &lt;li>列表项1&lt;/li> &lt;li>列表项2&lt;/li> ...... &lt;/ul>
+B、&lt;ul> &lt;ul>列表项1&lt;/ul> &lt;ul>列表项2&lt;/ul> ...... &lt;/ul>
+C、&lt;ul> ...... &lt;/ul>
+D、&lt;ul>……&lt;/ul> &lt;ul>……&lt;/ul> &lt;ul>……&lt;/ul>
+25．定义列表常用于对术语或名词进行解释和描述，用一对(   D )标记定义。
+A、&lt;ul>&lt;/ul>
+B、&lt;ol>&lt;/ol>
+C、&lt;dt>&lt;/dt>
+D、&lt;dl>&lt;dl>
+26．当通过定义列表实现图文混排时，下列标记中用于插入图片的是（ C  ）。
+A、&lt;dl>&lt;/dl>
+B、&lt;dd>&lt;/dd>
+C、&lt;dt>&lt;/dt>
+D、&lt;li>&lt;/li>
+27．使用list-style-image属性可以为各个列表项设置项目图像，那么list-style-image的默认值是（  B  ）。
+A、url
+B、none
+C、inherit
+D、0
+28．当通过定义列表实现图文混排时，可以定义图片解释说明文字的标记是（  B  ）。
+A、&lt;dl>&lt;/dl>
+B、&lt;dd>&lt;/dd>
+C、&lt;dt>&lt;/dt>
+D、&lt;li>&lt;/li>
+29．关于创建锚点链接的代码，下列书写正确的是（    ）。
+A、&lt;a href="#one">链接文本&lt;/a> ……… &lt;h3 id="one">锚点链接 &lt;/h3>
+B、&lt;a href="#id">链接文本&lt;/a> ……… &lt;h3 id="one">锚点链接 &lt;/h3>
+C、&lt;a href="#">链接文本&lt;/a> ……… &lt;h3 id="one">锚点链接 &lt;/h3>
+D、&lt;a href="#one">链接文本&lt;/a> ……… &lt;h3 id="#one">锚点链接 &lt;/h3>
+
+判断题
+1．创建图像超链接时，图像产生的边框效果，会严重影响网页的功能。（X   ）
+2．列表的嵌套通常是指有序列表和无序列表的嵌套，因此定义列表不能用在列表的嵌套中。（X   ）
+3．在有序列表中，除了type属性外，还可以为&lt;ol>标记定义start属性。（  V ）
+4．使用链接伪类时，通常按照a:link、a:visited、a:hover和a:active的顺序书写。（V  ）
+5．创建图像超链接时，在IE6中图像会添加边框效果，需要将图像的边框定义为0。（ V  ）
+6．在HTML语言中，常用的列表有三种，分别为无序列表、有序列表和定义列表。（  V ）
+7．设置访问前超链接的样式，需要为&lt;a>标签添加链接伪类样式：a:visited。(    X )
+8．当通过定义列表实现图文混排时，需要对&lt;dt>&lt;/dt>和&lt;dd>&lt;/dd>构成的盒子均设置左浮动。（  V  ）
+9．在实际网页制作过程中，通过为&lt;li>设置背景图像的方式能够实现不同的列表项目符号。（ V  ）
+10．使用list-style-image属性时，由于浏览器的兼容性，常常出现列表项目图像和列表项没有对齐的状况。（   ）
+11．创建锚点链接时，使用&lt;a>标记标注跳转目标的位置。（   X ）
+12．在超链接中“href”属性用于指定链接页面的打开方式。（ X  ）
+13．在HTML常用的三种列表中，定义列表的列表项前没有任何项目符号。（  V ）
+14．在CSS的列表样式属性中，list-style-image属性可以为各个列表项设置项目图像。（  V ）
+15．当list-style-type属性取值为none时，列表会显示默认的项目符号。（ X  ）
+16．在有序列表中，当type属性取值为“I”时，项目符号显示数字为1、2、3……。（  X ）
+17．链接伪类可以实现不同的链接状态，a：active用来定义鼠标点击后超链接的状态。（ X）
+18．为了使未访问和访问后的链接样式保持一致，通常对a:link和a:visited应用相同的样式。（V  ）
+19．在使用列表时，如果列表项中包含若干子列表项，就需要将列表进行嵌套。（   V）
+20．在HTML中创建超链接非常简单，只需用&lt;a>&lt;/a>标记环绕需要被链接的对象即可。（V   ）
+21．超链接是指从一个网页指向一个目标的连接关系。（V   ）
+22．在HTML中，&lt;ul>&lt;/ul>标记可以用于定义有序列表。（  X ）
+23．创建图像超链接时，只需将图像的边框定义为0，即可清除图像产生边框效果。（  V ）
+24．伪类虽然不是真正意义上的类，但是它的名称可以由用户自定义。（  X ）
+25．列表项目符号的位置指的是列表项目符号相对于浏览器的位置。（  V ）
+26．无序列表的各个列表项之间，虽然没有顺序级别之分，但是存在主从关系。（ X  ）
+27．在HTML中，&lt;dt>&lt;/dt>标记用于指定定义列表。（   X）
+28．在定义列表中，一对&lt;dt>&lt;/dt>标记可以对应多对&lt;dd>&lt;/dd>标记。（  V  ）
+29．创建图像超链接时，通常使用超链接标记&lt;a>&lt;/a>环绕图像来定义。（  V ）
+30．清除链接图像的边框效果，是为了使图像正常显示。（ V  ）
+31．在无序列表中，代码“list-style-type:square;”表示列表的项目符号是方块样式。( V )
+32．在CSS的列表样式属性中，list-style-position属性用于控制列表项目符号的位置。（ V  ）
+33．在有序列表中，不定义type属性时，有序列表的列表项默认按“I、II、III…”的顺序排列。( X)
+34．在超链接中，当target取值为“_self”，意为在原窗口中打开链接页面。（  V ）
+35．在CSS的列表样式属性中，使用list-style复合属性可以综合设置列表样式。（  V  ）
+36．锚点链接就是带有id属性的超链接标签。（ V ）
+37．创建锚点链接包括创建链接文本和设置跳转目标位置两个步骤。（  V ）
+38．在CSS的列表样式属性中，list-style-type属性用于控制无序和有序列表的项目符号。（ V  ）
+39．list-style-image属性对列表项目图像的控制能力不强，因此实际工作中不建议使用。（ V  ）
+40．链接伪类用于实现不同的链接状态，提高用户体验。（ V  ）
+41．创建文本超链接时，在任何浏览器中，文本都不会产生边框效果。（ V  ）
+42．如果不设置list-style-position属性，列表项目符号默认位于列表文本以内。（X    ）
+43．无序列表的列表项&lt;li>&lt;/li>中只能嵌套无序列表。( X  )
+44．定义列表常用于图文混排，其中&lt;dd>&lt;/dd>标记中放入对图片解释说明的文字。（ V  ）
+45．无序列表、有序列表和项目列表之间不能相互嵌套。( X )
+46．有序列表即为有排列顺序的列表，&lt;ol>&lt;/ol>标记用于定义有序列表。(V   )
+47．使用复合属性list-style时，各个样式之间以逗号隔开。（ X  ）
+48．设置&lt;a>标签的css样式代码为“display：block”，&lt;a>标签将变为块级元素。（V    ）
+49．在实际网页制作过程中，通常不会使用list-style复合属性控制列表样式。（V   ）
+50．在CSS中，通过为&lt;li>设置背景图像的方式，能够更灵活的控制列表项目符号。（ V  ）
+51．超链接标记&lt;a>的伪类有4种，分别表示未访问时、访问后、鼠标悬停和鼠标点击不动时超链接的状态。（   ）
+52．在定义列表中，一对&lt;dt>&lt;/dt>可以对应多对&lt;dd>&lt;/dd> ( V   )
+53．在CSS中，通过为&lt;li>设置背景图像的方式可以代替list-style-image属性。（ V  ）
+54．在为各个列表项设置项目图像之前，不需要为列表项设置“list-style:none;”。 ( X )
+55．在实际网页制作过程中，通常将list-style的属性值定义为0。（  X ）
+56．在有序列表中，list-style-type 属性值的显示效果不可以是罗马数字。(X  )
+57．链接伪类可以实现不同的链接状态，a：hover用来定义鼠标未访问时超链接的状态。（X ）
+58．在无序列表中，子列表项&lt;li>与&lt;/li>之间相当于一个容器，可以容纳所有的元素。（  V ）
+59．定义列表常用于图文混排，其中&lt;dt>&lt;/dt>标记中插入图片。（ V  ）
+60．在HTML语言中，通过创建锚点链接，用户能够快速定位到目标内容。（  V ）
+61．使用背景图像的方式来定义列表项目符号，需要先清除列表的默认显示样式。（ V  ）
+62．在无序列表中，不定义type属性时，就不会显示列表项目符号。（  X ）
+63．在HTM语言中，创建锚点链接和创建超链接的方式相同。（  X ）
+64．在实际运用中，锚点链接常应用于内容较多，页面过长的网页。（ V  ）
+65．将列表进行嵌套的方法是在其子列表项中插入要嵌套的列表。（  V ）
+66．在进行列表嵌套时，无序列表中只能嵌套无序列表。（ X  ）
+67．在使用list-style复合属性时，如果不设置某个属性，未设置的属性会使用其默认值。（  V ）
+68．创建图像超链接时，在任何浏览器中，图像都会添加边框效果。（V   ）( )
+69．在HTML中常用的列表有三种，其中有序列表是指有排列顺序的列表，其各个列表项按照一定的顺序排列。（V   ）
+70．在实际网页制作过程中，通常使用list-style-type属性控制列表的项目符号。（ X   ）
+71．在超链接中，如果暂时没有确定链接目标，通常将&lt;a>标记的href属性值定义为“*”。（ X  ）
+72．在列表属性中，list-style-image属性用来定义列表的项目符号。(  V)
