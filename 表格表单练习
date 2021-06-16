@@ -1,0 +1,198 @@
+
+单选题
+1． 下列选项中，可用于设置下拉菜单的多项选择功能的是（  B ）
+A、size="1"
+B、multiple="multiple"
+C、selected="selected"
+D、checked="checked"
+2． 下列选项中，不属于表单控件的是（D ）
+A、input
+B、select
+C、table
+D、textarea
+3． 下面的选项中，设置单元格高度正确的是（  B   ）。
+A、td{width:50px;}
+B、td{height:50px;}
+C、td{line-height:50px;}
+D、td{font-size:50px;}
+4． 下列标记中，可用于为表格设置“行”的是（C   ）
+A、<table></table>
+B、<td></td>
+C、<tr></tr>
+D、<tt></tt>
+5． 下列选项中，用于指定接收并处理表单数据的服务器程序的url地址的是（B ）。
+A、action
+B、method
+C、name
+D、src
+6． <form>与</form>之间的表单控件是由用户自定义的。下列选项中，不属于表单标记<form>的常用属性的是（  B  ）。
+A、action
+B、size
+C、method
+D、name
+7． 阅读下面代码：
+<tr height="80" align="center" valign="top" bgcolor="yellow">
+<td>姓名</td>
+<td>性别</td>
+<td>电话</td>
+<td>住址</td>
+</tr>
+上面这段代码表示的含义是（A ）。
+A、按照设置的高度显示、文本内容水平居中垂直居上且添加了背景颜色
+B、按照设置的高度显示、文本内容水平居右垂直居上且添加了背景颜色
+C、按照设置的高度显示、文本内容水平居中垂直居中且添加了背景颜色
+D、按照设置的高度显示、文本内容水平居右垂直居中且添加了背景颜色
+8． 下列选项中，用来设置行背景颜色的是（C  ）。
+A、height
+B、align
+C、bgcolor
+D、background
+9． 下列选项中，能够用于定义表格头部的标签是（A）
+A、<thead></thead>
+B、<tbody></tbody>
+C、<caption></caption>
+D、<tfoot></tfoot>
+10． 关于<tr>标记的描述，下列选项中正确的是（C）
+A、tr是表格的列标记
+B、tr可以单独使用
+C、tr是表格中的列标记(行标记)
+D、tr没有属性
+11． 下列选项中，用来定义下拉列表的是（ C）
+A、<input />
+B、<textarea></textarea>
+C、<select></select>
+D、<form>
+12． 下列选项中，用来定义多行文本框的是（B ）
+A、<input />
+B、<textarea></textarea>
+C、<select></select>
+D、<form>
+13． 下列选项中，用来设置单元格背景颜色的是（B）
+A、width
+B、bgcolor
+C、rowspan
+D、colspan
+14． CSS代码如下所示：
+“table{border:1px solid red;}”
+上述代码的含义是（A ）。
+A、设置table的边框为一像素的红色实线
+B、设置单元格的边框为一像素的红色实线
+C、设置table的边框为一像素的红色虚线
+D、设置单元格的边框为一像素的红色虚线
+15． 下面的选项中，设置单元格宽度正确的是（ A  ）。
+A、td{width:50px;}
+B、td{height:50px;}
+C、td{line-height:50px;}
+D、td{font-size:50px;}
+16． 下列属性中，用于指定下拉菜单可见选项数的是（ A  ）
+A、option
+B、selected
+C、size
+D、multiple
+17． 给input控件应用以下CSS样式：
+“background:url(images/1.jpg) no-repeat 5px center #FFF;”
+上述代码的含义是（A ）。
+A、定义input控件的背景
+B、定义input控件的文本颜色
+C、定义input控件的内边距
+D、定义input控件的文本宽高
+18． 在表格中，用于设置表格的边框的属性是（A ）。
+A、border
+B、cellspacing
+C、cellpadding
+D、background
+19． 下列选项中，用来设置单元格横跨的列数的是（C ）。
+A、width
+B、bgcolor
+C、rowspan
+D、colspan
+20． 下列选项中，可用于设置表格背景图像的是（ D ）
+A、color
+B、img
+C、bgcolor
+D、background
+21． 下列选项中，能够设置表单背景颜色的属性是（C ）
+A、size
+B、padding
+C、background-color
+D、borde
+22． 在使用表格进行布局时，用于定义表格的头部的是（A ）
+A、<thead></thead>
+B、<tfoot></ tfoot >
+C、<tbody></tbody>
+D、<th></th>
+23． 在表格中，用于设置表格背景颜色的属性是（ D ）
+A、border
+B、cellspacing
+C、cellpadding
+D、bgcolor
+ 
+ 判断题
+1．	一个表格<table>标签对儿中，只能允许有一个<caption>标签。（V  ）
+2．	使用CSS的width和height属性同样可以定义多行文本输入框的宽高。（V  ）
+3．	在HTML语言里，<td>标记中的colspan和rowspan属性用于对单元格进行合并。（V  ）
+4．	<filedset></filedset>标记用于为表单内容分组，其配套标记<legend></legend>，用于为各个表单组定义名称。( V)
+5．	在定义下拉列表时，<optgroup></optgroup>标记用于定义选项组，必须嵌套在<select></select>标记中。(V )
+6．	在定义表单时，如果不定义表单域，表单中的数据就无法传送到后台服务器。（ V ）
+7．	和<div>标记一样，单元格标记<td>也可以设置padding和margin属性。( X )
+8．	在定义下拉列表时，<optgroup>标记有一个必需属性label，用于定义具体的组名。（V  ）
+9．	<table></table>、<tr></tr>和<td></td>是创建表格的基本标记，缺一不可。（  V  ）
+10．	当表格的border-collapse属性设置为collapse时， HTML中设置的cellspacing属性值无效。（V ）
+11．表单域能够定义处理表单数据所用程序的url地址。（X ）	
+12．	表头一般位于表格的第一行或第一列，其文本加粗居中。（V ）
+13．	在表格中，使用<th>标记用来设置表头。（V  ）
+14．	在表单中，name属性用于指定表单的名称，以区分同一个页面中的多个表单。（V  ）
+15．	在表单控件中，对复选框应用checked属性，指定默认选中项。（V  ）
+16．	通过对<tr>标记应用属性，可以对表格中的某一个单元格进行控制。（X  ）
+17．	当对某一个<td>标记应用width属性设置宽度时，该列中的所有单元格均会以设置的宽度显示。（ V 
+18．	在<tr>标记中应用background属性存在严重的兼容性问题，因此一般不推荐使用（ X）
+19．	在<textarea>表单控件中，rows用来定义多行文本输入框每行中的字符数。( X )
+20．在定义单选按钮时，必须为同一组中的选项指定相同的name值，这样“单选”才会生效。（ V ）	
+21．	在创建表单时，表单对象的名称由name属性设定。（ V ）
+22．在表格中，对单元格设置外边距属性margin不会生效。( V ）	
+23．	cellpadding属性用于设置单元格与单元格边框之间的空白间距。（  X ）
+24．	border-collapse 属性用于设置表格边框合并与分离。（X  ）
+25．	<form></form>标记中的所有内容都会被提交给服务器。(  X )
+26．	当对<table>标记应用align属性时，控制的为表格的水平对齐方式，单元格中的内容不受影响。（ V ）
+27．	当input控件的type属性值为submit时，即定义了一个提交按钮。（ V ）
+28．	在表格中，可以对<tr>标记应用align属性，用于设置一行内容的垂直对齐方式。（ X ）
+29．	在<table>标记中，border属性用于设置表格的边框，其默认值为1。（ V   ）
+30．	表单提交后的数据处理程序由action属性指定。（ V ）
+31．	使用表格的结构划分标记后，搜索引擎可以更好地理解网页内容，表格的实际显示效果会随之改变。（  ）
+32．	表单域相当于一个容器，用来容纳所有的表单控件和提示信息，可以通过它定义处理表单数据所用程序的url地址，以及数据提交到服务器的方法。( V )
+33．post为默认值，这种方式提交的数据将显示在浏览器的地址栏中，保密性差，且有数据量的限制。（ X ）	
+34．	在表单中，action属性用于指定接收并处理表单数据的服务器程序的url地址。（  ）
+35．	对同一列中的单元格定义不同的宽度时，最终的宽度将取其中的较大者。( X  
+36．	在表格中，有几对<tr></tr>，就表示该表格有几行。（ X ）
+37．	在表格中，<td>标记用于定义单元格，且必须嵌套在<tr></tr>标记中。（ V ）
+38．	一个表格<table>标签对儿中，只能允许有一个<th>标签。（V  ）
+39．在表格中，cellpadding属性用来控制单元格内容与边框之间的距离。（ V）	
+40．	对同一行中的单元格定义不同的高度，或对同一列中的单元格定义不同的宽度时，最终的宽度或高度将取其中的较大者。( X )
+41．	对同一行中的单元格定义不同的高度，最终的高度将取其中的较小者。( X )
+42．	在表格中，border的属性值能够改变内边框和外边框宽度。（ X ）
+43．	在表格中，一对<tr></tr>中包含几对<td></td>，就表示该行中有多少个单元格。（ V ）
+44．	在定义下拉列表时，<option></option>标记必须嵌套在<select></select>标记中。（ V ）
+45．	在<textarea>表单控件中，rows用来定义多行文本输入框显示的行数。（ V ）
+46．	在表格中，<table>标记应用了边框样式属性border，单元格不必再设置边框了。（X  ）
+47．	在表格标记中，<table>标记用来创建一个表格。（V  ）
+48．	在CSS控制表单样式时，置浏览器的默认样式时需要清除表单控件的内边距padding和外边距margin。（ V ）
+49．	action的属性值可以是相对路径或绝对路径，还可以为接收数据的E-mail邮箱地址。（ V ）
+50．	在表格标记中，border-collapse属性用来使单元格的边框合并。（V  ）
+51．	在表格标记中，<tr>用于定义表格中的一行，可以脱离<table></table>标记而存在。（X  ）
+52．	如果要合并哪些单元格就删除它们，并在预留的单元格中设置相应地colspan或rolspan值即可。（ V ）
+53．	在表格中，设置相邻单元格边框之间的距离可以使用cellspacing属性，也可以使用CSS中margin外边距属性。(  )
+54．	使用CSS为<td>标签设置边框，当相邻边框颜色不一致，则会出现楔形。（ X）
+55．	在表格中，cellspacing属性用来控制单元格内容与边框之间的距离。（ X ）
+56．	当对textarea控件应用cols和rows属性时，多行文本输入框在各浏览器中的显示效果可能会有差异。（ V ）
+57．	在表格中，<tr>标记无宽度属性width，其宽度取决于表格标记<table>。（ V ）
+58．	在表格中，valign属性用来设置一行内容的水平对齐方式。（ X ）
+59．	在HTML中，<form></form>标记用于定义表单域，即创建一个表单，以实现用户信息的收集和传递。（ V ）
+60． cols属性用来定义多行文本输入框显示的行数。（   ）
+61．	<th></th>标记与<td></td>标记的属性、用法完全相同。（ V ）
+62．	代码“<td rowspan="3">海淀区</td>”表示的意思是将三行合并为一行。（ V ）
+63．	通过设置单元格的width和height属性可以调整单元格的宽度和高度，且单元格之间互不影响。( X )
+64．一个表格只能定义一对<thead></thead>、一对<tfoot></ tfoot >，但可以定义多对<tbody></ tbody >。（ V ）	
+65．	使用<select>标记可以在表单中添加一个下拉菜单。（V   ）
+66．	在表格中，cellpadding属性用于设置单元格内容与单元格边框之间的空白间距，默认为2px。（ X ）
+67．	使用表格进行布局时，可以将表格划分为头部、主体和页脚。（ V ）
+68．	<tr>标记用于定义表格中的行。（ V   ）
